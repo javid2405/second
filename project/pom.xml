@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Directi</groupId>
-  <artifactId>zeta</artifactId>
-  <version>1.0.0</version>
+  <artifactId>ledger</artifactId>
+  <version>1.10.1</version>
   <packaging>jar</packaging>
 
   <name>project</name>
