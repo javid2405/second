@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Directi</groupId>
-  <artifactId>ledger</artifactId>
-  <version>1.10.1</version>
+  <artifactId>corporates</artifactId>
+  <version>1.10.10</version>
   <packaging>jar</packaging>
 
   <name>project</name>
@@ -22,4 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<repository>
+<id>repo-id</id>
+<name>My repository</name>
+<url>http://localhost:8081/repository/devops/</url>
+<uniqueVersion>false</uniqueVersion>
+</repository>
 </project>
