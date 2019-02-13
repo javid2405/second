@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Directi</groupId>
-  <artifactId>corporates</artifactId>
-  <version>1.10.10</version>
+  <artifactId>wordpress</artifactId>
+  <version>1.100.200</version>
   <packaging>jar</packaging>
 
   <name>project</name>
