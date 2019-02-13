@@ -3,15 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Directi</groupId>
-<<<<<<< HEAD
   <artifactId>wordpress</artifactId>
   <version>1.100.200</version>
-=======
-  <artifactId>journal</artifactId>
-  <version>1.20.10</version>
->>>>>>> d6a46d557d545d07698440a2b4dc468f873f363a
   <packaging>jar</packaging>
-
   <name>project</name>
   <url>http://maven.apache.org</url>
 
